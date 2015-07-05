@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Table">
+      <UniqueIdentifier>{e34dfae3-51b2-4dc5-83be-a355bf7ed0a2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CStudentApdapter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CStuScorApdater.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_qinshi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_student.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_StuScor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_teaccourse.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_xi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_courseInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CoTreeNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NodeNum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tb_teacher.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddKey.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="socketServe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CStudentAdapter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_qinshi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_student.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_StuScore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_teaccourse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_xi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_courseInfo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tb_teacher.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddKey.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="socketServe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Course\tb_qin.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\tb_student.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\tb_stuscore.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\tb_teaccourse.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\tb_xi.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\tb_courseInfo.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\tb_teacher.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="课程设计\设计要求.docx">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\pk_records.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="Course\fk_records.txt">
+      <Filter>Table</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+表1	列	表2	列
+tb_stuscore.txt	1	tb_student.txt	1

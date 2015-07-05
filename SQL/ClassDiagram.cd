@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="keyRecords" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAABAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FKRecords" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAADAAAAAAAA=</HashCode>
+      <FileName>AddKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddKey" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAQAAAIAAAAAAAAAAAAAAAAABIACAgCAAAAAAA=</HashCode>
+      <FileName>AddKey.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoTreeNode" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIACAAQAAAgAIAAAA=</HashCode>
+      <FileName>CoTreeNode.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentAdapter" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAEAgAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CStudentApdapter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tb_StuScor" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>CStuScorApdater.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NodeNum" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAAA=</HashCode>
+      <FileName>NodeNum.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="socketServe" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAQAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>socketServe.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tb_courseInfo" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEABAAQAAAACAAAAAAJCAAAAAAAgAAAAABAAA=</HashCode>
+      <FileName>tb_courseInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tb_qinshi" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAIAAAAAAAAACABAAAAAAAAAAAAAAIAQAAAAgA=</HashCode>
+      <FileName>tb_qinshi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tb_student" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAECAAAgQAAQAAQCABAEgAAAAQACAAAgAACAEAEgI=</HashCode>
+      <FileName>tb_student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="index" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAgAAAAABAAA=</HashCode>
+      <FileName>tb_student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stuCourInfo" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAABAAAAAAAAAAAAAkAAAAAgAAA=</HashCode>
+      <FileName>tb_StuScor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="couseInfo" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAEAAAAAAQAAABBAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>tb_StuScor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stuNodeNum" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tb_StuScor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tb_teaccourse" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>tb_teaccourse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tb_teacher" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAABAiEAAAAAAAAAACEkAAQAACAAEBA=</HashCode>
+      <FileName>tb_teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xi" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABQAAAAAAAAACACABAAAAAAAAACIAAACAAAABAAA=</HashCode>
+      <FileName>tb_xi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
